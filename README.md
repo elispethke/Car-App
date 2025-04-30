@@ -2,7 +2,11 @@
 
 This is a **React Native** car detail screen designed for car rental or sales apps. The interface is modern, responsive, and includes interactive features such as an image carousel, favorite button, pricing table, and cancellation policy.
 
+<<<<<<< HEAD
 
+=======
+![BMW Preview](https://imgur.com/sAuYCCK.png)
+>>>>>>> b6f556d (create a new README.md)
 
 ## ✨ Features
 
@@ -18,6 +22,21 @@ This is a **React Native** car detail screen designed for car rental or sales ap
 
 ## 📂 Project Structure
 
+<<<<<<< HEAD
+=======
+```
+src/
+├── assets/
+│   ├── BMW-1.webp
+│   ├── BMW-2.webp
+│   ├── BMW-3.webp
+│   └── BMW-4.jpg
+├── components/
+│   └── HeaderDetailScreen.js
+├── styles/
+│   └── header.style.js
+```
+>>>>>>> b6f556d (create a new README.md)
 
 ## 🛠️ Technologies Used
 
@@ -34,6 +53,7 @@ This is a **React Native** car detail screen designed for car rental or sales ap
 - Add i18n support
 - Add unit testing
 
+<<<<<<< HEAD
 ## Install the dependencies:
  npm install
   or
@@ -55,6 +75,8 @@ Frontend & Mobile Developer | React Native | SwiftUI
 
 
 
+=======
+>>>>>>> b6f556d (create a new README.md)
 ## 📸 Demo
 
 | Image Carousel | Vehicle Details | Pricing Table |
@@ -67,3 +89,35 @@ Frontend & Mobile Developer | React Native | SwiftUI
 
 ```bash
 git clone https://github.com/your-username/repo-name.git
+<<<<<<< HEAD
+=======
+```
+
+2. Install the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Run the project:
+
+```bash
+npx react-native run-android
+# or
+npx react-native run-ios
+```
+
+## 👩‍💻 Author
+
+**Elisângela Pethke**  
+Frontend & Mobile Developer | React Native | SwiftUI  
+📍 Berlin, Germany  
+🌐 [LinkedIn](https://www.linkedin.com/in/elisangelapethke/)  
+📂 [GitHub Portfolio](https://github.com/elisangelapethke)
+
+---
+
+📝 **License:** This project is licensed under the MIT License. Feel free to use it as a reference or base for your own projects.
+>>>>>>> b6f556d (create a new README.md)
